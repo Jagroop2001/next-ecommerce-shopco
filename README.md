@@ -1,34 +1,15 @@
-[![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/)
+
+![png](https://github.com/user-attachments/assets/35b24eab-61a6-4fe7-adef-a953826fe877)
 
 # Shopco
 
 Shopco is an open-source project that converts a Figma design of an e-commerce website into a fully responsive front-end application. It utilizes **Next.js 14 App Router**, **TypeScript**, **Tailwind CSS**, **Redux**, **Framer Motion**, and **ShadCN UI** to deliver a modern, scalable, and optimized solution based on industry standards.
 
-## Table of Contents
-
-- [Shopco](#shopco)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Demo](#demo)
-  - [Features](#features)
-  - [Technologies](#technologies)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Project Structure](#project-structure)
-  - [Contributing](#contributing)
-  - [Issues](#issues)
-  - [License](#license)
-  - [Contact](#contact)
 
 ## Overview
 
 Shopco bridges the gap between design and development by converting Figma designs into production-ready code. The project follows best practices for **SEO**, **performance optimization**, and **accessibility**, making it a perfect foundation for developers looking to create scalable and maintainable e-commerce front-ends.
 
-## Demo
-
-Check out the live demo: [Shopco Demo](https://next-ecommerce-shopco.vercel.app/)
-
-<!-- [![Shopco Screenshot](https://github.com/mohammadoftadeh/repo-assets/blob/main/shopco-cover.png?raw=true)](https://next-ecommerce-shopco.vercel.app/) -->
 
 ## Features
 
@@ -131,7 +112,7 @@ Contributions are welcome! If you'd like to contribute, Please follow these step
 
 ## Issues
 
-Feel free to submit issues for any bugs, feature requests, or general questions related to the project. You can also reach out via [email](mailto:mr.mohammadoftadeh@gmail.com) for support.
+Feel free to submit issues for any bugs, feature requests, or general questions related to the project. You can also reach out via [email](mailto:jagroopofficial29@gmail.com) for support.
 
 ## License
 
@@ -141,6 +122,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 Feel free to reach out to:
 
-- **Name**: Mohammad Oftadeh
-- **Email**: [mr.mohammadoftadeh@gmail.com](mailto:mr.mohammadoftadeh@gmail.com)
-- **GitHub**: [https://github.com/mohammadoftadeh](https://github.com/mohammadoftadeh)
+- **Name**: Jagroop Singh
+- **Email**: [jagroopofficial29@gmail.com](mailto:jagroopofficial29@gmail.com)
+- **GitHub**: [https://github.com/Jagroop20001](https://github.com/Jagroop20001)
