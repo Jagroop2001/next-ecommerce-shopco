@@ -40,7 +40,7 @@ To get started with Shopco locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mohammadoftadeh/next-ecommerce-shopco.git
+   git clone https://github.com/Jagroop2001/next-ecommerce-shopco.git
    cd next-ecommerce-shopco
    ```
 
@@ -124,4 +124,4 @@ Feel free to reach out to:
 
 - **Name**: Jagroop Singh
 - **Email**: [jagroopofficial29@gmail.com](mailto:jagroopofficial29@gmail.com)
-- **GitHub**: [https://github.com/Jagroop20001](https://github.com/Jagroop20001)
+- **GitHub**: [https://github.com/Jagroop2001](https://github.com/Jagroop2001)
